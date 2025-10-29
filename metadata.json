@@ -1,0 +1,5 @@
+{
+  "name": "Mercurial AI Browser",
+  "description": "A cyberpunk-themed web browser that uses a Gemini-powered AI assistant to analyze and summarize web page content.",
+  "requestFramePermissions": []
+}
